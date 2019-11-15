@@ -1,0 +1,11 @@
+{
+    "company_name": "BACI", 
+    "contact_email": "pravin4180@gmail.com", 
+    "contact_name": "Pravin Perumalsamy", 
+    "hostname": "67f514daa8bc434a928770a6e0f13551", 
+    "instance_count": 10, 
+    "license_date": 2126858196, 
+    "license_key": "e0b4be847c23a4b989339c76fef9d8de1d1777163be6f0ee4edd02d74ec5050e", 
+    "license_type": "basic", 
+    "subscription_name": "Red Hat Ansible Tower, Self-Support (10 Managed Nodes)"
+}
